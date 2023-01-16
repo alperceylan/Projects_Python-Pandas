@@ -1,9 +1,9 @@
 # Projects_Python-Pandas
 
-ENGLISH -->
-Projects I've been working on with Pandas.
-The descriptions of the projects are in the '.ipynb' files.
+<br> ENGLISH -->
+<br> Projects I've been working on with Pandas.
+<br> The descriptions of the projects are in the '.ipynb' files.
 
-TÜRKÇE --> 
-Pandas ile üzerinde çalıştığım projeler.
-Projelerin açıklamaları, '.ipynb' dosyalarında bulunmaktadır.
+<br> TÜRKÇE --> 
+<br> Pandas ile üzerinde çalıştığım projeler.
+<br> Projelerin açıklamaları, '.ipynb' dosyalarında bulunmaktadır.
